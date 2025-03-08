@@ -2,37 +2,33 @@
 
 <p align="center">
 💻 Programmer Pemula | SMK Wikrama Bogor | PPLG  
-🚀 Belajar Web Dev, AI, dan Mobile Dev  
+🚀 Belajar Web Dev dan AI
 </p>
 
----
+# 💫 About Me:
+🚀 About Me  <br>- 🔥 **Frontend Developer** dengan keahlian di **HTML, CSS, JavaScript, PHP**  <br>- 🎯 Sedang belajar **Backend Development (Laravel, Node.js, MySQL)**  <br>- 🤖 Mulai eksplorasi **AI & Machine Learning (Python, NumPy, Pandas, TensorFlow)**  <br>- ⚡ Fun fact: Aku suka eksplorasi teknologi baru dan membangun proyek kecil! 
 
-### 🚀 About Me  
-- 🔥 Sedang belajar **HTML, CSS, JavaScript, Laravel, MySQL, dan Kotlin**  
-- 🎯 Minat di **Backend Development & AI Engineering**  
-- 🌱 Saat ini fokus belajar **Bootstrap, Flask, dan Git**  
-- ⚡ Fun fact: Aku suka eksplorasi teknologi baru!  
 
----
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rfaahfz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rafa-hafiz-iqbal-sugarda-04010a32b) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@rafa_sukatempe) 
 
-### 🛠️ Tech Stack  
-<img src="https://img.shields.io/badge/Code-HTML-orange?style=for-the-badge&logo=html5">  
-<img src="https://img.shields.io/badge/Code-CSS-blue?style=for-the-badge&logo=css3">  
-<img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge&logo=javascript">  
-<img src="https://img.shields.io/badge/Backend-Laravel-red?style=for-the-badge&logo=laravel">  
-<img src="https://img.shields.io/badge/Database-MySQL-blue?style=for-the-badge&logo=mysql">  
-<img src="https://img.shields.io/badge/Mobile-Kotlin-purple?style=for-the-badge&logo=kotlin">  
+# 💻 Tech Stack:
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=racuyy&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=racuyy&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=racuyy&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
----
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=racuyy&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
-### 📊 GitHub Stats  
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB&show_icons=true&theme=tokyonight" width="400px">  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_GITHUB&theme=tokyonight" width="400px">
-</p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=racuyy&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=racuyy&icon=2&color=1)](https://visitcount.itsvg.in)
 
-### 📫 Reach Me On  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/rafanama)  
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emailmu@gmail.com)  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
