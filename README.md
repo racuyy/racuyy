@@ -43,10 +43,11 @@
 
 ## 📊 Statistik GitHub  
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=racuyy&theme=tokyonight" width="850px">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=racuyy&theme=tokyonight" width="400px">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=racuyy&theme=tokyonight" width="400px">
+  <img src="https://github-readme-stats.vercel.app/api?username=racuyy&show_icons=true&theme=tokyonight" width="400px">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=racuyy&theme=tokyonight" width="400px">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=racuyy&theme=tokyo-night" width="850px">
 </p>
+
 
 ---
 
